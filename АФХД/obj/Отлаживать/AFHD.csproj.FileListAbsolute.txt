@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\AFHD\AFHD\bin\Debug\AFHD.exe.config
+C:\Users\ACER\source\repos\AFHD\AFHD\bin\Debug\AFHD.exe
+C:\Users\ACER\source\repos\AFHD\AFHD\bin\Debug\AFHD.pdb
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.csprojResolveAssemblyReference.cache
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.Form1.resources
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.Form2.resources
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.Form3.resources
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.Form4.resources
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.Properties.Resources.resources
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.csproj.GenerateResource.Cache
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.exe
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.pdb
+C:\Users\ACER\source\repos\AFHD\AFHD\obj\Debug\AFHD.Form5.resources
